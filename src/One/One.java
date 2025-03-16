@@ -1,3 +1,5 @@
+// Complexidade O(n²)
+
 package One;
 import java.util.ArrayList;
 import java.util.Scanner;
